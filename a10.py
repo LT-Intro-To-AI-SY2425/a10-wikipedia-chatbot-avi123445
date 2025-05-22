@@ -199,5 +199,29 @@ def query_loop() -> None:
     print("\nSo long!\n")
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # uncomment the next line once you've implemented everything are ready to try it out
 query_loop()
